@@ -1,9 +1,5 @@
 # Color Detection from Images
 
-## Overview
-
-This project addresses the challenge of accurately and efficiently detecting colors within digital images. It proposes a novel approach that combines advanced image processing techniques with a machine learning model trained on a diverse and meticulously labeled dataset to achieve robust and granular color detection.
-
 ## Problem Statement
 
 Accurate and efficient color detection in digital images is difficult due to:
